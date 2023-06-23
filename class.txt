@@ -1,0 +1,31 @@
+Non-ectopic beat:
+
+    Normal sinus rhythm
+    Sinus bradycardia
+    Sinus tachycardia
+    Sinus arrhythmia
+    Irregular sinus rhythm
+    Right bundle branch block (RBBB)
+    Left bundle branch block (LBBB)
+    1st-degree AV block
+
+Supraventricular ectopic beat:
+
+    Premature atrial contractions (PACs)
+    Atrial fibrillation (AF)
+    Atrial flutter
+    Paroxysmal supraventricular tachycardia (PSVT)
+    Atrial Tachycardia
+    Supraventricular Tachycardia
+    Paroxysmal atrial fibrillation
+    Wolff-Parkinson-White (WPW) syndrome
+    
+Ventricular ectopic beat:
+
+    Premature ventricular contractions (PVCs)
+    Ventricular tachycardia (VT)
+    Ventricular fibrillation (VF)
+    Ventricular flutter
+    Ventricular Escape Rhythm
+    Ventricular Bigeminy
+    
