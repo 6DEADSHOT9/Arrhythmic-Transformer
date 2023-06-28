@@ -1,0 +1,52 @@
+N
+	accelerated atrial escape rhythm
+	atrial rhythm
+	av block
+	bundle branch block
+	sinus bradycardia
+	sinus rhythm
+	sinus tachycardia
+	sinus arrhythmia
+	cardiac dysrhythmia
+	bradycardia
+	left bundle branch block
+	right bundle branch block
+	incomplete left bundle branch block
+	incomplete right bundle branch block
+	complete left bundle branch block
+	complete right bundle branch block
+
+S
+	atrial tachycardia
+	atrial fibrillation
+	atrial fibrillation and flutter
+	atrial flutter
+	supraventricular premature beats
+	supraventricular tachycardia
+	supraventricular bigeminy
+	paroxysmal supraventricular tachycardia
+	paroxysmal atrial fibrillation
+	premature atrial contraction
+	junctional tachycardia
+	wolff parkinson white pattern
+
+V
+	ventricular ectopics
+	ventricular escape beat
+	ventricular escape rhythm
+	ventricular fibrillation
+	ventricular flutter
+	ventricular hypertrophy
+	ventricular pacing pattern
+	ventricular pre excitation
+	ventricular premature beats
+	ventricular tachycardia
+	ventricular bigeminy
+	ventricular trigeminy
+	paroxysmal ventricular tachycardia
+	premature ventricular contractions
+
+
+Unclassifiable-
+	accelerated idioventricular rhythm
+	atrial pacing pattern

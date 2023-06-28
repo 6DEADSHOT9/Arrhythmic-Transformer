@@ -1,0 +1,118 @@
+
+
+abnormal QRS
+
+
+
+acute myocardial infarction
+acute myocardial ischemia
+anterior ischemia
+anterior myocardial infarction
+atrial bigeminy
+atrial escape beat
+
+atrial hypertrophy
+
+
+
+atrioventricular  node reentrant tachycardia
+atrioventricular dissociation
+atrioventricular junctional rhythm
+atrioventricular reentrant tachycardia
+
+blocked premature atrial contraction
+brady tachy syndrome
+
+brugada
+
+cardiac dysrhythmia
+chronic atrial fibrillation
+chronic myocardial ischemia
+clockwise or counterclockwise vectorcardiographic loop
+clockwise rotation
+complete heart block
+
+congenital incomplete atrioventricular heart block
+coronary heart disease
+countercolockwise rotation
+decreased qt interval
+diffuse intraventricular block
+early repolarization
+fqrs wave
+fusion beats
+heart failure
+heart valve disorder
+high t-voltage
+idioventricular rhythm
+
+indeterminate cardiac axis
+inferior ST segment depression
+inferior ischaemia
+junctional escape
+junctional premature complex
+junctional tachycardia
+lateral ischaemia
+left anterior fascicular block
+left atrial abnormality
+left atrial enlargement
+left atrial hypertrophy
+left axis deviation
+
+left posterior fascicular block
+left ventricular high voltage
+left ventricular hypertrophy
+left ventricular strain
+low qrs voltages
+mobitz type II atrioventricular block
+mobitz type i wenckebach atrioventricular block
+myocardial infarction
+myocardial ischemia
+nonspecific intraventricular conduction disorder
+nonspecific st t abnormality
+old myocardial infarction
+p wave change
+pacing rhythm
+paired ventricular premature complexes
+
+
+
+poor R wave Progression
+
+
+prolonged P wave
+prolonged pr interval
+prolonged qt interval
+qwave abnormal
+r wave abnormal
+rapid atrial fibrillation
+right atrial  high voltage
+right atrial abnormality
+right atrial hypertrophy
+right axis deviation
+
+
+right ventricular hypertrophy
+s t changes
+shortened pr interval
+sinoatrial block
+sinus arrest
+
+sinus atrium to atrial wandering rhythm
+
+sinus node dysfunction
+
+st depression
+st elevation
+st interval abnormal
+
+
+suspect arm ecg leads reversed
+t wave abnormal
+t wave inversion
+tall p wave
+transient ischemic attack
+u wave abnormal
+
+
+wandering atrial pacemaker
+
