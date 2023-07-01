@@ -51,6 +51,31 @@ def powerline(signal):
     denoised_ecg_signal = pywt.waverec(coeffs, wavelet_name)
     return denoised_ecg_signal
 
+def rms_transform(signal):
+    rms = np.zeros([len(signal[:, 0])])
+
+    tempp = np.zeros((12, len(signal[:, 0])))
+    for i in range(12):
+        tempp[i] = signal[:, i] ** 2
+
+    for i in range(len(signal[:, 0])):
+
+        rms[i] = np.sqrt(np.mean(tempp[:, i]))
+    return rms
+
+def rms_transform2(signal):
+    rms = np.zeros([len(signal[:, 0])])
+
+    tempp = np.zeros((12, len(signal[:, 0])))
+    for i in range(12):
+        temp = normalize(calc_baseline(powerline(signal[:, i])))
+        tempp[i] = temp ** 2
+
+    for i in range(len(signal[:, 0])):
+
+        rms[i] = np.sqrt(np.mean(tempp[:, i]))
+    return rms
+
 def all_transform(signal):
     rms = np.zeros([len(signal[:, 0])])
 
@@ -62,4 +87,5 @@ def all_transform(signal):
 
         rms[i] = np.sqrt(np.mean(tempp[:, i]))
     rms = normalize(rms)
+    
     return rms
